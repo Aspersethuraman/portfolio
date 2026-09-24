@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Sethuraman website icon</title>
+  <desc>A black rounded square with a white S and coral dot.</desc>
+  <rect width="512" height="512" rx="112" fill="#080909"/>
+  <path d="M348 154c-31-29-72-43-123-43-69 0-119 30-119 82 0 51 42 72 129 97 79 22 119 49 119 108 0 69-57 113-145 113-61 0-112-20-150-59" fill="none" stroke="#f5f4ef" stroke-linecap="round" stroke-linejoin="round" stroke-width="45"/>
+  <circle cx="377" cy="392" r="31" fill="#f27f68"/>
+</svg>

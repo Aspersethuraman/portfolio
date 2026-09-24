@@ -1,0 +1,17 @@
+{
+  "name": "Sethuraman | Software Engineer & Product Thinker",
+  "short_name": "Sethuraman",
+  "description": "Sethuraman's software engineering portfolio.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#edf3f2",
+  "theme_color": "#080909",
+  "icons": [
+    {
+      "src": "assets/site-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
